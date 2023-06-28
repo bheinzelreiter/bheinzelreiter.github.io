@@ -49,6 +49,9 @@
 }
 
 .page__content {
+  font-family: $serif;
+  text-align: justify;
+  hyphens: auto;;
 
   h2 {
     padding-bottom: 0.5em;
